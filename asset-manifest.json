@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codedady/static/css/main.87d90a47.css",
+    "main.css": "/codedady/static/css/main.c105ab33.css",
     "main.js": "/codedady/static/js/main.38be0039.js",
     "static/js/453.9694a43a.chunk.js": "/codedady/static/js/453.9694a43a.chunk.js",
     "static/media/rocket.png": "/codedady/static/media/rocket.24a59cff4071d1c9662d.png",
     "index.html": "/codedady/index.html",
-    "main.87d90a47.css.map": "/codedady/static/css/main.87d90a47.css.map",
+    "main.c105ab33.css.map": "/codedady/static/css/main.c105ab33.css.map",
     "main.38be0039.js.map": "/codedady/static/js/main.38be0039.js.map",
     "453.9694a43a.chunk.js.map": "/codedady/static/js/453.9694a43a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87d90a47.css",
+    "static/css/main.c105ab33.css",
     "static/js/main.38be0039.js"
   ]
 }
